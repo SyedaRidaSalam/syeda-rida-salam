@@ -5,7 +5,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import {
   RxGithubLogo,
   RxLinkedinLogo,
-  RxInstagramLogo,
 } from "react-icons/rx";
 import { FiMessageCircle } from "react-icons/fi";
 

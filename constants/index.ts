@@ -1,9 +1,6 @@
-import { FaYoutube, FaFacebook } from "react-icons/fa";
+
 import {
-  RxDiscordLogo,
   RxGithubLogo,
-  RxInstagramLogo,
-  RxTwitterLogo,
   RxLinkedinLogo,
 } from "react-icons/rx";
 
