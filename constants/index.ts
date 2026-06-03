@@ -10,19 +10,14 @@ import {
 
 export const SOCIALS = [
   {
-    name: "Instagram",
-    icon: RxInstagramLogo,
-    link: "https://www.instagram.com/abdul_salam_wahab",
-  },
-  {
     name: "GitHub",
     icon: RxGithubLogo,
-    link: "https://github.com/abdulsalamwahab-dev",
+    link: "https://github.com/SyedaRidaSalam",
   },
   {
     name: "LinkedIn",
     icon: RxLinkedinLogo,
-    link: "https://www.linkedin.com/in/abdul-salam-wahab-981112231",
+    link: "https://www.linkedin.com/in/syedaridasalam/",
   },
 ] as const;
 
