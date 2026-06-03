@@ -126,7 +126,7 @@ http://localhost:3000
 
 ## 📧 Contact Information
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Email:** [syedarida287@gmail.com](mailto:syedarida287@gmail.com])
 
 **Location:** Germany
 
