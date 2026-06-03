@@ -118,7 +118,7 @@ export const About = () => {
           <div className="relative w-full h-full rounded-full overflow-hidden border border-white/10 bg-[#0a0a1a] p-2 backdrop-blur-3xl shadow-2xl">
             <img
               src="/rida.jpeg"
-              alt="Abdul Salam Wahab"
+              alt="Syeda Rida Salam"
               className="w-full h-full rounded-full object-cover grayscale-[20%] group-hover:grayscale-0 transition-all duration-500"
             />
           </div>
