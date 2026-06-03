@@ -128,7 +128,7 @@ http://localhost:3000
 
 **Email:** [syedarida287@gmail.com](mailto:syedarida287@gmail.com])
 
-**Location:** Germany
+**Location:** Pakistan
 
 ---
 

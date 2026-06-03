@@ -149,7 +149,7 @@ export const About = () => {
                   FRONTEND DEVELOPER (REACT.JS / NEXT.JS)
                 </span>{" "}
                 based in
-                <span className="text-white font-medium"> Germany</span>, with a
+                <span className="text-white font-medium"> Pakistan</span>, with a
                 deep-rooted passion for architecting robust digital systems. My
                 journey in{" "}
                 <span className="text-white font-medium">
