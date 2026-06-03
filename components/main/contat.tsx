@@ -130,11 +130,11 @@ export const Contact = () => {
               href="tel:+491604530011"
               className="group flex items-center gap-4 w-fit transition-all duration-300"
             >
-              <div className="flex items-center justify-center w-12 h-12 rounded-2xl bg-white/[0.03] border border-white/10 group-hover:border-purple-400/50 group-hover:bg-purple-400/5 transition-all">
+              {/* <div className="flex items-center justify-center w-12 h-12 rounded-2xl bg-white/[0.03] border border-white/10 group-hover:border-purple-400/50 group-hover:bg-purple-400/5 transition-all">
                 <span className="text-xl group-hover:scale-110 transition-transform">
                   📱
                 </span>
-              </div>
+              </div> */}
               {/* <div>
                 <p className="text-[10px] uppercase tracking-[0.2em] text-gray-500 font-bold">
                   Call
